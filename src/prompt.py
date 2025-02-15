@@ -9,5 +9,5 @@ prompt = ChatPromptTemplate.from_template("""
 System: {system_prompt}
 Context: {context}
 Human: {input}
-Assistant: Let me help you with your medical query.
+Assistant: Let me help you with your medical query based on the context provided.
 """)

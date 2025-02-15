@@ -150,7 +150,7 @@ border-radius: 0 0 15px 15px !important;
 	margin-bottom: auto;
 	margin-left: 10px;
 	border-radius: 25px;
-	background-color: rgb(230, 234, 237);
+	background-color: rgb(82, 172, 255);
 	padding: 10px;
 	position: relative;
 }
@@ -159,7 +159,7 @@ border-radius: 0 0 15px 15px !important;
 	margin-bottom: auto;
 	margin-right: 10px;
 	border-radius: 25px;
-	background-color: #eeeef4;
+	background-color: #58cc71;
 	padding: 10px;
 	position: relative;
 }
@@ -192,7 +192,7 @@ border-radius: 0 0 15px 15px !important;
 	z-index: 1;
 	position: absolute;
 	padding: 15px 0;
-	background-color: rgba(86, 82, 82, 0.5);
+	background-color: rgba(0,0,0,0.5);
 	color: white;
 	border-radius: 15px;
 	top: 30px;
@@ -214,7 +214,7 @@ border-radius: 0 0 15px 15px !important;
 }
 .action_menu ul li:hover{
 	cursor: pointer;
-	background-color: rgba(70, 69, 69, 0.2);
+	background-color: rgba(0,0,0,0.2);
 }
 @media(max-width: 576px){
 	.contacts_card{
